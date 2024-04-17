@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-92-react-node-VladyslavKshenin/static/css/main.dca83a3f.css",
-    "main.js": "/fs-92-react-node-VladyslavKshenin/static/js/main.ed24ffe3.js",
+    "main.js": "/fs-92-react-node-VladyslavKshenin/static/js/main.33d17f45.js",
     "static/js/368.d0cf754b.chunk.js": "/fs-92-react-node-VladyslavKshenin/static/js/368.d0cf754b.chunk.js",
     "static/css/949.98ca71ce.chunk.css": "/fs-92-react-node-VladyslavKshenin/static/css/949.98ca71ce.chunk.css",
     "static/js/949.63981775.chunk.js": "/fs-92-react-node-VladyslavKshenin/static/js/949.63981775.chunk.js",
@@ -39,7 +39,7 @@
     "static/media/eye-slash.svg": "/fs-92-react-node-VladyslavKshenin/static/media/eye-slash.2ceab82f09b339bf52cc81440085ea72.svg",
     "static/media/eye.svg": "/fs-92-react-node-VladyslavKshenin/static/media/eye.b9f7be026605b1a59b9bfa34efcac750.svg",
     "main.dca83a3f.css.map": "/fs-92-react-node-VladyslavKshenin/static/css/main.dca83a3f.css.map",
-    "main.ed24ffe3.js.map": "/fs-92-react-node-VladyslavKshenin/static/js/main.ed24ffe3.js.map",
+    "main.33d17f45.js.map": "/fs-92-react-node-VladyslavKshenin/static/js/main.33d17f45.js.map",
     "368.d0cf754b.chunk.js.map": "/fs-92-react-node-VladyslavKshenin/static/js/368.d0cf754b.chunk.js.map",
     "949.98ca71ce.chunk.css.map": "/fs-92-react-node-VladyslavKshenin/static/css/949.98ca71ce.chunk.css.map",
     "949.63981775.chunk.js.map": "/fs-92-react-node-VladyslavKshenin/static/js/949.63981775.chunk.js.map",
@@ -47,6 +47,6 @@
   },
   "entrypoints": [
     "static/css/main.dca83a3f.css",
-    "static/js/main.ed24ffe3.js"
+    "static/js/main.33d17f45.js"
   ]
 }
